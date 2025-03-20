@@ -43,4 +43,4 @@ mod tests {
         // This test should check if program panics when we try to create rectangle with negative height
         let _rect = Rectangle::new(10, 10);
     }
-}gg
+}
